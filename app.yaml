@@ -1,3 +1,2 @@
-runtime: nodejs
-env: flex
+runtime: nodejs18
 service: ecosphere-api
